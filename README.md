@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Make sure to have npm and node installed and verify with npm -v & node -v by running in the terminal, if not then install via brew command: brew install node.
+
+Once done, then run `npx create-react-app .` in terminal to create react project in the same folder else mention folder name `npx create-react-app {project name}`
+
 ## Available Scripts
 
 In the project directory, you can run:
